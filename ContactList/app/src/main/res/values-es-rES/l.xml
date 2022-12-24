@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">mi aplicación</string>
+    <string name="hello_blank_fragment">Hola fragmento en blanco</string>
+    <string name="note">notas</string>
+    <string name="addnote">Añadir la nota</string>
+    <string name="text">texto</string>
+    <string name="notename">Nombre de la nota</string>
+    <string name="notesubject">Asunto de la nota</string>
+    <string name="notedetails">Detalles de la nota</string>
+    <string name="deletenote">Borrar nota</string>
+    <string name="OtherNotes">Otras notas</string>
+</resources>
